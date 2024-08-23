@@ -24,7 +24,6 @@ This is a simple quiz application built using React, Redux, and Chakra UI. The a
 
 ### Prerequisites
 
-- Node.js
 - npm (Node Package Manager)
 
 ### Installation
@@ -37,11 +36,11 @@ This is a simple quiz application built using React, Redux, and Chakra UI. The a
 
 2. Install the dependencies
     
-    ``` npm i
+    ```npm i
 
 3. Start the server
 
-   ``` npm run dev
+   ```npm run dev
 
 ## Project Structure
 - **Components: Contains the reusable components like Navbar.
